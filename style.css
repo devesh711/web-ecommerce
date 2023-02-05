@@ -63,7 +63,7 @@ body {
     padding: 20px 80px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
     background-color:rgba(204, 206, 215,0.4) ;
-    background-image: url("img web/banner\ background.png");
+    background-image: url("/img%20web/banner\ background.png");
     background-repeat: repeat-x;
     z-index: 999;
     position: sticky;
@@ -116,7 +116,7 @@ body {
 
 /* hero start */
 #hero {
-  background-image: url("img web/hero.jpg.jpg");
+  background-image: url("/img%20web/hero.jpg.jpg");
   background-repeat: no-repeat;
   height: 115vh;
   width: 100%;
@@ -293,7 +293,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("img web/banner/b1.jpg");
+  background-image: url("/img%20web/banner/b1.jpg");
   text-align: center;
   width: 100%;
   height: 40vh;
@@ -338,7 +338,7 @@ button.normal:hover,::after {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("img web/banner/b1.jpg"); 
+  background-image: url("/img%20web/banner/b1.jpg"); 
   min-width: 625px;
   height: 50vh;
   background-size: cover;
@@ -347,7 +347,7 @@ button.normal:hover,::after {
 }
 
 #sm-banner .banner-box2 {
-   background-image: url("img web/products/b2.jpg");
+   background-image: url("/img%20web/products/b2.jpg");
 }
 
 #sm-banner h4 {
@@ -392,7 +392,7 @@ button.normal:hover,::after {
       justify-content: space-between;
       flex-wrap: wrap;
       align-items: center;
-      background-image: url("img web/banner/b3.jpg");
+      background-image: url("/img%20web/banner/b3.jpg");
       background-repeat: no-repeat;
       background-position: 20% 30%;
       width: 100%;
@@ -528,7 +528,7 @@ footer .copyright {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("img web/banner/b4.jpg") ;
+  background-image: url("/img%20web/banner/b4.jpg") ;
   text-align: center;
   width: 100%;
   height: 40vh; 
@@ -638,7 +638,7 @@ footer .copyright {
 /* blog page start */
 
 #shop-banner.blog-header {
-  background-image: url("img web/banner/b10.gif");
+  background-image: url("/img%20web/banner/b10.gif");
   width: 100%;
   background-size: 100%  125%;
 }
