@@ -63,7 +63,7 @@ body {
     padding: 20px 80px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
     background-color:rgba(204, 206, 215,0.4) ;
-    background-image: url("img web/banner\ background.png");
+    background-image: url("img web/banner/background.png");
     background-repeat: repeat-x;
     z-index: 999;
     position: sticky;
@@ -116,7 +116,7 @@ body {
 
 /* hero start */
 #hero {
-  background-image: url("https://github.com/devesh711/web-ecommerce/blob/main/Img%20web/hero.jpg.jpg");
+  background-image: url("/Img%20web/hero.jpg.jpg");
   background-repeat: no-repeat;
   height: 115vh;
   width: 100%;
