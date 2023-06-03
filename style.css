@@ -63,7 +63,7 @@ body {
   padding: 20px 80px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   background-color: rgba(204, 206, 215, 0.4);
-  background-image: url("/img%20web/banner\ background.png");
+  background-image: url("./Img%20web/banner\ background.png");
   background-repeat: repeat-x;
   z-index: 999;
   position: sticky;
@@ -306,7 +306,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("/img%20web/banner/b1.jpg");
+  background-image: url("./Img%20web/banner/b1.jpg");
   text-align: center;
   width: 100%;
   height: 40vh;
@@ -355,7 +355,7 @@ button.normal:hover,
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("/img%20web/banner/b1.jpg");
+  background-image: url("./Img%20web/banner/b1.jpg");
   min-width: 625px;
   height: 50vh;
   background-size: cover;
@@ -364,7 +364,7 @@ button.normal:hover,
 }
 
 #sm-banner .banner-box2 {
-  background-image: url("/img%20web/products/b2.jpg");
+  background-image: url("./Img%20web/products/b2.jpg");
 }
 
 #sm-banner h4 {
@@ -414,7 +414,7 @@ button.normal:hover,
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background-image: url("/img%20web/banner/b3.jpg");
+  background-image: url("./Img%20web/banner/b3.jpg");
   background-repeat: no-repeat;
   background-position: 20% 30%;
   width: 100%;
@@ -542,7 +542,7 @@ footer .copyright {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("/img%20web/banner/b4.jpg");
+  background-image: url("./Img%20web/banner/b4.jpg");
   text-align: center;
   width: 100%;
   height: 40vh;
@@ -646,7 +646,7 @@ h4 {
 /* blog page start */
 
 #shop-banner.blog-header {
-  background-image: url("/img%20web/banner/b10.gif");
+  background-image: url("./Img%20web/banner/b10.gif");
   width: 100%;
   background-size: 100% 125%;
 }
@@ -721,7 +721,7 @@ h4 {
 /* about start */
 
 #shop-banner.about-header {
-  background-image: url("img web/banner/b11.jpg");
+  background-image: url("./Img web/banner/b11.jpg");
   background-size: 100% 110%;
 }
 
@@ -758,7 +758,7 @@ h4 {
 /*contact page */
 
 #shop-banner.contact-header {
-  background-image: url("img web/banner/bcontact.jpg");
+  background-image: url("./Img web/banner/bcontact.jpg");
   background-size: 100% 110%;
 }
 
@@ -873,7 +873,7 @@ h4 {
 /* cart start */
 
 #shop-banner.cart-header {
-  background-image: url("img web/banner/b3.jpg");
+  background-image: url("./Img web/banner/b3.jpg");
   background-size: 100% 110%;
 }
 
